@@ -1,1 +1,1 @@
-# digitalEaqualizer
+# digitalEqualizer
