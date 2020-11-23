@@ -4,7 +4,6 @@ Created on Fri Oct 23 20:28:06 2020
 
 @author: Arthur Cruz Morbach
 """
-#TRABALHO GB
 
 import matplotlib.pyplot as plt
 import numpy as np
